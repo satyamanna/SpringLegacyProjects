@@ -1,0 +1,30 @@
+ 
+ URL: http://localhost:8080/SpringMVCHibernate/
+ It is included hibernate spring bean test/practice ,  handler mapping spring bean test/practice , 
+  spring bean test/practice , all the spring related queries and hibernate related queries are being tested 
+ 
+ PROGRESS NOTE
+ ---------------
+ reference :  https://www.baeldung.com/spring-handler-mappings
+ reference : https://www.journaldev.com/3531/spring-mvc-hibernate-mysql-integration-crud-example-tutorial
+1. Various types of handlermapping  
+a) BeanNameUrlHandlerMappingController
+b) SimpleHandler Mapping   
+
+
+coding point  :  
+
+1 ) problem : - class not found -- source file not found . 
+    Solutions:-- we have to download source version of that particular .class and attach to it  
+
+    
+    
+Other Learnings during progress : 
+https://www.quora.com/What-is-the-difference-between-framework-Spring-3-x-and-Spring-4-x
+
+
+
+
+
+
+    
